@@ -1,4 +1,4 @@
-package com.dsw.pam.zadanie_2.ui.theme
+package com.dsw.pam.thermohouse.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

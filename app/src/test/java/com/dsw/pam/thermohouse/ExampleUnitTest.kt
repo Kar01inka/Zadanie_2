@@ -1,4 +1,4 @@
-package com.dsw.pam.zadanie_2
+package com.dsw.pam.thermohouse
 
 import org.junit.Test
 
